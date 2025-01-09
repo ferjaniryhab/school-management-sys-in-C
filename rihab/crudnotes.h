@@ -9,11 +9,10 @@ typedef struct {
     float noteorale;
 } notes;
 
-// Déclarations des fonctions
-void Creernotes();
-void Supprimernotes();
-void Modifiernotes();
+// DÃ©clarations des fonctions
+
 void Affichernotes();
 void GestionNotes();
 
 #endif // CRUDNOTES_H
+
